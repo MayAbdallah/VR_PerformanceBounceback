@@ -36,7 +36,6 @@ public GameObject GetPooledBall()
     ballPoolNum++;
         /*  if (ballPoolNum > (ballsAmount - 1))
           { ballPoolNum = 0; }*/
-
         if (ballPoolNum >= pooledBalls.Count)
         { // Reset it to 0 if the number is larger than the number of objects we have in the pool.
             ballPoolNum = 0;
