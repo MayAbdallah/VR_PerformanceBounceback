@@ -13,6 +13,13 @@ Replaced the older SteamVR plugin with the new version.
 - Removed Throw script as it's no longer needed.
 
 ##
+Name: May AlSohibani
+Time: It took three days.
+
+-I liked the code correction part.
+
+Challenges:
+-I didn't understand LightProbes very well.
 
 Used System: 
 Windows Mixed Reality.
